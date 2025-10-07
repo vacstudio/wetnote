@@ -1,0 +1,18 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.hero {
+  background: linear-gradient(120deg, #004e89, #0088cc);
+  color: white;
+}
+
+.app-screenshot {
+  border-radius: 1rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  max-width: 320px;
+}
+.feature-icon {
+  font-size: 2rem;
+  color: #0088cc;
+}
